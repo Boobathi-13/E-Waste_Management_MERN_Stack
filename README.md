@@ -55,7 +55,7 @@ E-Waste Connect is a comprehensive **e-waste tracking and management system** th
 
 ### **Cloud & Storage**
 - **Firebase Cloud Firestore** (for real-time database and storage)
-- **AWS S3 / Firebase Storage** (for storing images of e-waste items)
+- **Firebase Storage** (for storing images of e-waste items)
 
 ### **Other Technologies**
 - **Google Maps API** (for location-based tracking)
